@@ -24,3 +24,4 @@ In main.py:
 ```
 python3 main.py
 ```
+[![Video](https://user-images.githubusercontent.com/22590804/162174489-9b56825f-a123-426d-afdb-b78231509064.mov)](https://user-images.githubusercontent.com/22590804/162174489-9b56825f-a123-426d-afdb-b78231509064.mov)
